@@ -1,0 +1,6 @@
+pyrebase==3.0.27
+pandas==1.3.5
+matplotlib==2.2.2
+seaborn==0.11.2
+kivy==2.0.0
+https://github.com/kivymd/KivyMD/archive/master.zip
