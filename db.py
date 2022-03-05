@@ -8,10 +8,10 @@ import seaborn as sns
 class LogData:
     def __init__(self):
         self.config = {
-            "apiKey": "AIzaSyBaAclo7e6VlSyF33rTjvBmrOAVeoC6Xlc",
-            "authDomain": "maintenance-12a5d.firebaseapp.com",
-            "databaseURL": "https://maintenance-12a5d-default-rtdb.firebaseio.com",
-            "storageBucket": "maintenance-12a5d.appspot.com",
+            "apiKey": " your project api key ",
+            "authDomain": " your project authDomain ",
+            "databaseURL": " your project databaseURL ",
+            "storageBucket": " your project storageBucket "
         }
 
         self.firebase = pyrebase.initialize_app(self.config)
